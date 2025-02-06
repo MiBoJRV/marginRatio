@@ -5,11 +5,9 @@ npm install
 ```
 
 
-2. Create a `.env` file in the root directory with your Telegram bot token:
+2. Create a `.env` file in the root directory with your API:
 
 ```
-TELEGRAM_BOT_TOKEN=
-
 BINANCE_API_KEY=
 BINANCE_SECRET_KEY=
 
