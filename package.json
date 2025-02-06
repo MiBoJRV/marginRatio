@@ -1,0 +1,13 @@
+{
+  "name": "margin-ratio",
+  "version": "1.0.0",
+  "description": "margin ratio",
+  "main": "src/margin_ratio.js",
+  "scripts": {
+    "start": "node src/margin_ratio.js"
+  },
+  "dependencies": {
+    "ccxt": "^4.4.53",
+    "dotenv": "^16.4.7"
+  }
+}
